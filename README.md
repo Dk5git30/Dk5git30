@@ -5,7 +5,7 @@
 - 🌟 **Pronouns:** She/Her
 - 💻 **Data Engineer:** Specializing in **Azure**, **PySpark**, and **ETL Pipelines**.
 - 🌍 **Currently based in:** Netherlands 🇳🇱
-- 🎯 **Looking for:** Opportunities in Data Engineering, focusing on cloud technologies and scalable data pipelines.
+- 🎯 **Looking for:** Opportunities in Data Engineering, focusing on cloud technologies and scalable data pipelines. 
 - 🧑🏻‍💻 **I am Currently Learning**
 - **Exploring Modern Data Skills:**
   - **Databricks**: Scalable data processing and machine learning workflows.
