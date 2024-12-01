@@ -1,4 +1,13 @@
-# Hello, I am Dhanashri 👋
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <img src="https://github.com/Dk5git30/Dk5git30/blob/main/Screenshot%202024-12-01%20132035.jpg?raw=true" alt="Your Image Alt Text" style="width: 200px;">
+  </div>
+  <div style="flex: 2;">
+    <h2>Hi 👋, I'm Dhanashri Kadu</h2>
+
+   </div>
+</div>
+
 
 ### Thanks for visiting my profile! Here's a little about me:
 
@@ -16,6 +25,9 @@
 - **Architecting Better Data Systems**: Learning design patterns and best practices for scalable, reliable pipelines.
 - **Personal Growth**: Learning **Dutch** (A1 level completed).
 
+<p align="center">
+  <img src="https://github.com/Dk5git30/Dk5git30/blob/main/Screenshot%202024-12-01%20132035.jpg?raw=true" alt="Your Image Alt Text">
+</p>
 
 ---
 
