@@ -27,7 +27,7 @@
 ---
 
 ### 🌐 How to Reach Me:
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhanashri-kadu-5054a3ab/))
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhanashri-kadu-5054a3ab/)
 - [![Email](https://img.shields.io/badge/Email-kadudhanashri06@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kadudhanashri06@gmail.com)
 
 ---
